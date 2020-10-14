@@ -1,5 +1,8 @@
 # Digital-Clock
-![Block Diagram](https://user-images.githubusercontent.com/51443318/95989212-40973a00-0e2a-11eb-9079-d95d8c6dfa0c.png)
-![State Machine Diagram](https://user-images.githubusercontent.com/51443318/95989278-560c6400-0e2a-11eb-85eb-c03b84cd8637.png)
-![Modules Diagram](https://user-images.githubusercontent.com/51443318/95989298-5d337200-0e2a-11eb-8102-24c17337d109.png)
-![Timing Analysis](https://user-images.githubusercontent.com/51443318/95989319-64f31680-0e2a-11eb-9f45-528e9bc34d52.png)
+![Block Diagram](https://user-images.githubusercontent.com/51443318/95990021-4b9e9a00-0e2b-11eb-93e9-de58bccea198.PNG)
+![State Machine Diagram](https://user-images.githubusercontent.com/51443318/95990036-4fcab780-0e2b-11eb-90dd-9a1b4e7b3c3d.png)
+![SW](https://user-images.githubusercontent.com/51443318/95990055-53f6d500-0e2b-11eb-9018-c046397ee268.PNG)
+![TIME](https://user-images.githubusercontent.com/51443318/95990066-578a5c00-0e2b-11eb-93a0-3b2ad1e9035a.PNG)
+![SSD](https://user-images.githubusercontent.com/51443318/95990076-5a854c80-0e2b-11eb-9553-3a15e9ec7ef4.PNG)
+![ANAYSIS1](https://user-images.githubusercontent.com/51443318/95990095-5fe29700-0e2b-11eb-8114-1d6fe8aeedc2.PNG)
+![ANAYSIS2](https://user-images.githubusercontent.com/51443318/95990112-653fe180-0e2b-11eb-9e00-b3daaf449e1c.PNG)
