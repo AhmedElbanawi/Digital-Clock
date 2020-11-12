@@ -1,0 +1,95 @@
+[DEVICE]
+Name=P16F877A
+Clock=4000000
+[MEMORY_MODEL]
+Value=-1
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=..\..\HAL\SW\SW.h
+[USE_EEPROM]
+Value=0
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=2000
+[EEPROM_DEFINITION]
+Value=
+[FILES]
+Count=8
+File0=Main.c
+File1=..\..\MCAL\GPIO\GPIO.c
+File2=..\..\MCAL\TIMERS\GPT2\GPT2.c
+File3=..\..\MCAL\INT\INT.c
+File4=..\..\HAL\SW\SW.c
+File5=..\..\HAL\SSD\SSD.c
+File6=..\CO_SCH\CO_SCH.c
+File7=..\TIME\TIME.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+Count=8
+File0=Main.c
+File1=..\..\HAL\SW\SW.h
+File2=..\..\HAL\SW\SW.c
+File3=..\..\HAL\SSD\SSD.h
+File4=..\..\HAL\SSD\SSD.c
+File5=..\TIME\TIME.h
+File6=..\TIME\TIME.c
+File7=..\CO_SCH\CO_SCH.c
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=13
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\defs\
+Path1=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\
+Path2=E:\EMBEDDED_PROJECTS\LAB\LAB_FINAL0\Digital Clock\APP\MAIN\
+Path3=E:\EMBEDDED_PROJECTS\LAB\LAB_FINAL0\Digital Clock\MCAL\GPIO\
+Path4=E:\EMBEDDED_PROJECTS\LAB\LAB_FINAL0\Digital Clock\MCAL\TIMERS\GPT2\
+Path5=E:\EMBEDDED_PROJECTS\LAB\LAB_FINAL0\Digital Clock\MCAL\INT\
+Path6=E:\EMBEDDED_PROJECTS\LAB\LAB_FINAL0\Digital Clock\HAL\SW\
+Path7=E:\EMBEDDED_PROJECTS\LAB\LAB_FINAL0\Digital Clock\HAL\SSD\
+Path8=E:\EMBEDDED_PROJECTS\LAB\LAB_FINAL0\Digital Clock\APP\CO_SCH\
+Path9=E:\EMBEDDED_PROJECTS\LAB\LAB_FINAL0\Digital Clock\MCAL\MEMORY\
+Path10=E:\EMBEDDED_PROJECTS\LAB\LAB_FINAL0\Digital Clock\MCAL\DATA_TYPES\
+Path11=E:\EMBEDDED_PROJECTS\LAB\LAB_FINAL0\Digital Clock\MCAL\Bit_Manipulation\
+Path12=E:\EMBEDDED_PROJECTS\LAB\LAB_FINAL0\Digital Clock\APP\TIME\
+[HEADER_PATH]
+Count=10
+Path0=E:\EMBEDDED_PROJECTS\LAB\LAB_FINAL0\Digital Clock\MCAL\GPIO\
+Path1=E:\EMBEDDED_PROJECTS\LAB\LAB_FINAL0\Digital Clock\MCAL\TIMERS\GPT2\
+Path2=E:\EMBEDDED_PROJECTS\LAB\LAB_FINAL0\Digital Clock\MCAL\MEMORY\
+Path3=E:\EMBEDDED_PROJECTS\LAB\LAB_FINAL0\Digital Clock\MCAL\INT\
+Path4=E:\EMBEDDED_PROJECTS\LAB\LAB_FINAL0\Digital Clock\MCAL\DATA_TYPES\
+Path5=E:\EMBEDDED_PROJECTS\LAB\LAB_FINAL0\Digital Clock\MCAL\Bit_Manipulation\
+Path6=E:\EMBEDDED_PROJECTS\LAB\LAB_FINAL0\Digital Clock\HAL\SW\
+Path7=E:\EMBEDDED_PROJECTS\LAB\LAB_FINAL0\Digital Clock\HAL\SSD\
+Path8=E:\EMBEDDED_PROJECTS\LAB\LAB_FINAL0\Digital Clock\APP\CO_SCH\
+Path9=E:\EMBEDDED_PROJECTS\LAB\LAB_FINAL0\Digital Clock\APP\TIME\
+[HEADERS]
+Count=10
+File0=..\..\MCAL\GPIO\GPIO.h
+File1=..\..\MCAL\TIMERS\GPT2\GPT2.h
+File2=..\..\MCAL\MEMORY\MEMORY.h
+File3=..\..\MCAL\INT\INT.h
+File4=..\..\MCAL\DATA_TYPES\Sys_Data_Types.h
+File5=..\..\MCAL\Bit_Manipulation\Bit_Manipulation.h
+File6=..\..\HAL\SW\SW.h
+File7=..\..\HAL\SSD\SSD.h
+File8=..\CO_SCH\CO_SCH.h
+File9=..\TIME\TIME.h
+[PLDS]
+Count=0
+[Useses]
+Count=0
+[EXPANDED NODES]
+Node1=Sources
+Node2=Header Files
+Count=2
