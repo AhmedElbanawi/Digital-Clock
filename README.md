@@ -9,3 +9,7 @@ Demo On Youtube:
 ![SSD](https://user-images.githubusercontent.com/51443318/95990076-5a854c80-0e2b-11eb-9553-3a15e9ec7ef4.PNG)
 ![ANAYSIS1](https://user-images.githubusercontent.com/51443318/95990095-5fe29700-0e2b-11eb-8114-1d6fe8aeedc2.PNG)
 ![ANAYSIS2](https://user-images.githubusercontent.com/51443318/95990112-653fe180-0e2b-11eb-9e00-b3daaf449e1c.PNG)
+
+New Modules Diagram Based On Digital Clock Version 2:
+
+[d9b8dacc-93d5-47c9-97a2-2fcd912706b0.pdf](https://github.com/AhmedElbanawi/Digital-Clock/files/5550338/d9b8dacc-93d5-47c9-97a2-2fcd912706b0.pdf)
