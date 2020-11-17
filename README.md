@@ -10,6 +10,6 @@ Demo On Youtube:
 ![ANAYSIS1](https://user-images.githubusercontent.com/51443318/95990095-5fe29700-0e2b-11eb-8114-1d6fe8aeedc2.PNG)
 ![ANAYSIS2](https://user-images.githubusercontent.com/51443318/95990112-653fe180-0e2b-11eb-9e00-b3daaf449e1c.PNG)
 
-New Modules Diagram Based On Digital Clock Version 2:
+# New Modules Diagrams Based On Digital Clock Version 2:
 
 ![Untitled](https://user-images.githubusercontent.com/51443318/99321896-8efb8680-2877-11eb-9c79-76bf3325f3ca.png)
