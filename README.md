@@ -3,7 +3,7 @@ Demo On Youtube:
     https://www.youtube.com/watch?v=LWkeI_fvNIE
     
 ![Block Diagram](https://user-images.githubusercontent.com/51443318/95990021-4b9e9a00-0e2b-11eb-93e9-de58bccea198.PNG)
-![UseCase](https://user-images.githubusercontent.com/51443318/99592940-8f238f80-29f9-11eb-811b-8c44afd5d33c.png)
+![UseCase](https://user-images.githubusercontent.com/51443318/99596821-9fd70400-29ff-11eb-9745-bdc11d7d219c.png)
 ![State Machine Diagram](https://user-images.githubusercontent.com/51443318/95990036-4fcab780-0e2b-11eb-90dd-9a1b4e7b3c3d.png)
 ![SW](https://user-images.githubusercontent.com/51443318/95990055-53f6d500-0e2b-11eb-9018-c046397ee268.PNG)
 ![TIME](https://user-images.githubusercontent.com/51443318/95990066-578a5c00-0e2b-11eb-93a0-3b2ad1e9035a.PNG)
