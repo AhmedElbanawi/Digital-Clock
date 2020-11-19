@@ -15,4 +15,7 @@ Demo On Youtube:
 # New Modules Diagrams Based On Digital Clock Version 2:
 
 ![Untitled2](https://user-images.githubusercontent.com/51443318/99533256-3f6ba680-29ae-11eb-891a-dcd0ae695947.png)
+![UseCase](https://user-images.githubusercontent.com/51443318/99596821-9fd70400-29ff-11eb-9745-bdc11d7d219c.png)
+![Seq](https://user-images.githubusercontent.com/51443318/99603297-acf9f000-2a0b-11eb-85e6-88096b46a273.png)
+
 
