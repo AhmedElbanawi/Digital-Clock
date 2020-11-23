@@ -1,4 +1,4 @@
-# Digital-Clock1
+# Digital-Clock
 Demo On Youtube: 
     https://www.youtube.com/watch?v=LWkeI_fvNIE
     
