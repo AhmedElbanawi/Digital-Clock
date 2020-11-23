@@ -1,11 +1,8 @@
 # Digital-Clock
 Demo On Youtube: 
     https://www.youtube.com/watch?v=LWkeI_fvNIE
-    
+Hint: OS here is a Co-operative scheduler based on Timer2 with Tick = 5 ms.    
 ![Block Diagram](https://user-images.githubusercontent.com/51443318/95990021-4b9e9a00-0e2b-11eb-93e9-de58bccea198.PNG)
-
-
-Hint: OS here is a Co-operative scheduler based on Timer2 with Tick = 5 ms.
 # UseCase Diagram
 ![UseCase](https://user-images.githubusercontent.com/51443318/99596821-9fd70400-29ff-11eb-9745-bdc11d7d219c.png)
 # Modules Diagram
